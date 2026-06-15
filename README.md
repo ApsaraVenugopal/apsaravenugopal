@@ -12,7 +12,7 @@
   </a>
 </p>
 
-## 🧑‍💻 About Me
+## 👩‍💻 About Me
 
 ```python
 class iOS Developer:
